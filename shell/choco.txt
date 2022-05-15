@@ -1,0 +1,16 @@
+# ffmpeg
+# winscp
+# git
+# chrome
+# mpv
+# jdownloader
+# yt-dlp
+# qbittorrent
+# jdownloader
+# everything
+# geforce-experience --version 3.20.0.118
+# powerbi
+# musicbee
+# scrcpy
+# heroku-cli
+; telegram

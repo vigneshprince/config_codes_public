@@ -1,0 +1,15 @@
+; ariac2
+; musicbee
+; lua
+; fluent-reader
+; autohotkey
+; obs-studio
+kdeconnect
+https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
+Hack-NF
+terminal-icons
+z
+psfzf
+FiraCode-NF
+gh
+cloudflared

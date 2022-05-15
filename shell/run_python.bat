@@ -1,0 +1,1 @@
+wt.exe --maximized -p "PowerShell" -d %~dp1 python %1
